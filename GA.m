@@ -80,6 +80,18 @@ drawLine(stepRealminGene, point);
 toc;
 end
 
+
+
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% subFunction %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function [minGene, minDistance, fitness, Distance]=calFitness(Ffunc, Gene, point)
 %%% choose best Gene %%%
 Distance=[];
