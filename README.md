@@ -1,3 +1,3 @@
-# SalesTravelTrip
+# TSP
 
-this program is using GA for calculating minimum distance of sales travel trip problem.
+this program is using Genetic Algorithm for Travelling Salesman Problem.
